@@ -30,8 +30,8 @@ p {
 h1.title {
 	position: absolute;
 	font-family: montserrat, arial, serif;
-	font-size: 4em;
-	font-weight: 700;
+	font-size: 2em;
+	font-weight: 600;
 	color: #ffffff;
 	top: 35%;
 	width: 85%;
@@ -44,7 +44,7 @@ h1.subtitle {
 	font-size: 2em;
 	font-weight: 300;
 	color: #ffffff;
-	top: 50%;
+	top: 45%;
 	width: 85%;
 	padding-left: 10%;
 }
